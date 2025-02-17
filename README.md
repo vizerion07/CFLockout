@@ -1,7 +1,5 @@
 # CfLockOut
 
-![CfLockOut Banner](https://via.placeholder.com/1200x400?text=CfLockOut+Banner)
-
 ## 🚀 Overview
 CfLockOut is a web-based platform designed to facilitate competitive coding contests using the **Lockout Format**, where two users compete against each other to solve problems quickly and efficiently. Built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js), CfLockOut provides a seamless user experience for Codeforces users.
 
@@ -79,9 +77,6 @@ We welcome contributions! To contribute:
 2. Create a new branch (`feature/your-feature`)
 3. Commit your changes and push to your fork.
 4. Open a pull request.
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ## 📩 Contact
 For any queries or feedback, feel free to reach out:
